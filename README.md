@@ -1,4 +1,4 @@
 # nerf_pytorch_notes
 These are notes for learning NeRF. 
-
-All the notes are noted on the source code.
+# where are the notes？
+All the notes are noted in the source code files.
